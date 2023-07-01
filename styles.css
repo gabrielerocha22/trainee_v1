@@ -1,0 +1,24 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    }
+
+.botões {
+    display: flex;
+    justify-content: center;
+    }
+        
+.yes, .no {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    }
+
+h1 {
+    text-align: center;
+    }
+        
